@@ -1,0 +1,28 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Installer files
+build/
+dist/
+*.spec
+
+# Nmap binaries
+nmap_bin/
+
+# IDE files
+.vscode/
+.idea/
+
+# Artifacts
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
